@@ -20,6 +20,28 @@ input.number {
 	color: #efe;
 }
 
+.btn-user{
+	margin-top:8px;
+}
+
+.span-text{
+	margin-top:200px;
+	color:yellow;
+	
+}
 #standard-basic {
 	color: #fff;
+}
+
+#userInput{
+	border-radius: 4px solid grey;
+	margin-top:20px;
+	margin-left:2px;
+	color:black;
+	height: 50px;
+	/* width:400%; */
+}
+
+.userData-container{
+	background:black;
 }
