@@ -205,6 +205,7 @@ class Searching extends Component {
 
   DoSomething = () => {
     // alert("Hii");
+    // here we are taking the input from the User Input component
     var element = document.getElementById("userInput");
     var ele = element.value;
     const array = ele.split(",");
@@ -222,11 +223,13 @@ class Searching extends Component {
           randomize={this.generateArray}
           changeAlgorithm={this.changeAlgorithm}
         />
+        {/* making container for the user input  */}
         <div className="userData-container">
           {" "}
           <span class="span-text">
             Enter Your Own Elements With Comma Seperated (a,b,c,d)<br></br>
           </span>
+          {/* input component taken from antd library  */}
           <Input
             id="userInput"
             placeholder="Enter Your Own Data"
