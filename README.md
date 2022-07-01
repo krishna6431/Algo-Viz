@@ -12,26 +12,16 @@ This is a project built for beginners to learn how different algorithms work in 
         - Selection Sort
         - Merge Sort
         - Quick Sort
-    - Scheduling
-        - FCFS Scheduling
-        - SJF Scheduling
-        - Priority Scheduling
-        - Round Robin Scheduling
     - Graph Traversal
         - DFS
         - BFS
         - Dijkstras
         - Prims MST
-    - N Queens
     - Searching
         - Linear Search
         - Binary Search
-    - Tree
-        Contains only BST operations
     - Stack
         Contains only Stack operations
-    - Queue
-        Contains only Queue operations
 
 ## In Order to Run The Code In Your Machine
 
@@ -45,7 +35,7 @@ This is a project built for beginners to learn how different algorithms work in 
 
 ## 3. Clone the repository
 
-`git clone https://github.com/ashwin-athappan/algo-visualizer.git`
+`git clone https://github.com/krishna6431/Algo-Viz.git
 
 ## 4. Install The Required Packages
 
