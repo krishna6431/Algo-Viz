@@ -31,7 +31,7 @@ function App() {
               <Route exact path="/searching" component={Searching} />
               <Route exact path="/graphTraversal" component={GraphTraversal} />
               <Route exact path="/stack" component={Stack} />
-              {/* <Route exact path='/about' component='#' /> */}
+              <Route exact path='/about' component= {Home} />
               <Route exact path="/exploreMe" component={Cards} />
             </Switch>
           </Router>

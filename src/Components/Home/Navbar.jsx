@@ -10,7 +10,7 @@ const Navbar = () => {
         </h6>
       </div>
       <div className="nav-item user-btn">
-        <button className="btn btn-outline-success">Hello Neha!</button>
+        <button className="btn btn-outline-success">Hello User!</button>
       </div>
       <div className="about-item">
         <Link to={"/about"}>
